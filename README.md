@@ -1,6 +1,6 @@
 # 🚀 OTT Subscriber Churn Intelligence & Revenue Impact Pipeline
 
-An end-to-end data analytics and customer intelligence pipeline built for an OTT subscription platform to predict high-risk subscriber churn, quantify Monthly Recurring Revenue (MRR) leakage, and analyze support escalation drivers[cite: 9, 15, 16].
+An end-to-end data analytics and customer intelligence pipeline built for an OTT subscription platform to predict high-risk subscriber churn, quantify Monthly Recurring Revenue (MRR) leakage, and analyze support escalation drivers
 
 ---
 
